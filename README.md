@@ -1,0 +1,1 @@
+# Clear Log VSCode Extension
