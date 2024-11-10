@@ -15,8 +15,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "logclear.hello",
-        "title": "Merhaba!"
+        "command": "logclear.clearConsoleLogs",
+        "title": "project clear logs"
       }
     ]
   },
